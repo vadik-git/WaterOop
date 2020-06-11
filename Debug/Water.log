@@ -1,6 +1,2 @@
 ﻿  Source.cpp
-c:\users\vadim\source\repos\water\water\water.h(35): warning C4244: return: преобразование "float" в "int", возможна потеря данных
-c:\users\vadim\source\repos\water\water\water.h(131): warning C4244: return: преобразование "float" в "int", возможна потеря данных
-c:\users\vadim\source\repos\water\water\water.h(55): warning C4715: Water::comprasion: значение возвращается не при всех путях выполнения
-Source.obj : error LNK2001: неразрешенный внешний символ ""private: static int Water::quanituWater" (?quanituWater@Water@@0HA)"
-C:\Users\Vadim\source\repos\Water\Debug\Water.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+  Water.vcxproj -> C:\Users\Vadim\source\repos\Water\Debug\Water.exe
